@@ -1,0 +1,7 @@
+pydantic==1.10.2
+pandas==1.5.3
+openpyxl==3.1.0
+numpy==1.24.1
+gender-guesser==0.4.0
+python-dotenv==0.21.1
+us==2.0.2
